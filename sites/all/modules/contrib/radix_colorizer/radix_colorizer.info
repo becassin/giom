@@ -1,0 +1,5 @@
+name = Radix Colorizer
+description = Integrates the Colorizer module with Radix-based themes.
+core = 7.x
+
+dependencies[] = colorizer

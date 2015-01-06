@@ -1,0 +1,11 @@
+/**
+ * @file
+ * Stylesheet for Radix Colorizer module.
+ */
+.form-item-scheme {
+  font-size: 1.2em;
+}
+#palette .form-item {
+  overflow: hidden;
+  height: auto;
+}
